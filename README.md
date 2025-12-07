@@ -145,9 +145,8 @@ Try asking:
 ## 👨‍💻 Author
 
 **[Your Full Name]**
-- Email: [your.email@example.com]
-- GitHub: [@YourUsername](https://github.com/YourUsername)
-- Phone: [Your Phone Number]
+- Email: vanshitapandey31017@gmail.com
+- GitHub: [@Vanshitaaa20](https://github.com/Vanshitaaa20)
 
 ## 📝 Assignment Submission
 
