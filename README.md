@@ -144,7 +144,7 @@ Try asking:
 
 ## 👨‍💻 Author
 
-**[Your Full Name]**
+**Vanshita Pandey**
 - Email: vanshitapandey31017@gmail.com
 - GitHub: [@Vanshitaaa20](https://github.com/Vanshitaaa20)
 
